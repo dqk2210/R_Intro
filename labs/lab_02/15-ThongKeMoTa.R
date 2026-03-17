@@ -412,7 +412,7 @@ cat("Outliers:", outliers, "\n")
 #   - Mean < Median
 
 # Cần cài đặt package moments
-# install.packages("moments")
+install.packages("moments")
 library(moments)
 
 # 1. Phân phối đối xứng
